@@ -670,8 +670,8 @@ svg {
 
     .hero_area_image {
         width: 90%;
-        height: 220px;
-        background-position: top;
+        height: 320px;
+        background-position: center;
     }
 
     .card_1,
