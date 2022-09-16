@@ -92,7 +92,6 @@ body {
     border: none;
     font-size: .9rem;
     font-weight: 600;
-    /* background-color: var(--pink); */
     background-color: white;
     border-radius: 47px;
     box-shadow: 0 5px 1rem rgba(0, 0, 0, 0.08);
@@ -632,6 +631,13 @@ svg {
 
 @media screen and (max-width: 560px) {
 
+    .header {
+        background-image: url(images/bg-hero-mobile.svg);
+        background-repeat: no-repeat;
+        background-position: top;
+        background-size: cover;
+    }
+
     .header_nav_area {
         height: 110px;
         padding: 0 1rem;
@@ -695,6 +701,10 @@ svg {
 
     .card_info_parag {
         font-size: 1.05rem;
+    }
+
+    .subscribe_area {
+        height: 200px;
     }
 
     .subscribe_area_title {
