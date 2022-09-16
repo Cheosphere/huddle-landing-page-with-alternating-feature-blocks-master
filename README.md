@@ -5,6 +5,8 @@ El desafío es construir esta página de destino a partir de los diseños provis
 - HTML
 - CSS
 
+![desktop-preview](https://user-images.githubusercontent.com/112582420/190543224-bce04da0-c43f-419e-a0f1-ad365131c382.jpg)
+
 # Guía de Estilo
 
 ## Diseño
